@@ -1,0 +1,5 @@
+train: /home/zhaojin/my_projects/license_recognition/preprocessed_dataset/images/train
+val: /home/zhaojin/my_projects/license_recognition/preprocessed_dataset/images/val
+
+nc: 1 
+names: ["license_plate"]
